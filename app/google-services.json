@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798181826393",
+    "firebase_url": "https://jadwalkereta-7159f.firebaseio.com",
+    "project_id": "jadwalkereta-7159f",
+    "storage_bucket": "jadwalkereta-7159f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798181826393:android:f1ab0c81ab8c60e6",
+        "android_client_info": {
+          "package_name": "com.tugasbesar.jadwal.jadwalkereta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798181826393-ddk74qtvt6crimg0jgkt81hj8472bf7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugasbesar.jadwal.jadwalkereta",
+            "certificate_hash": "0226a1fa9972980f55a4232de12db93e187db9e8"
+          }
+        },
+        {
+          "client_id": "798181826393-hsjksvcnk3tt1tmgt5958cq5kgdmmg7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtuHPFJSC1j3IrqxvwwDbFUyFi8Ske9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798181826393-hsjksvcnk3tt1tmgt5958cq5kgdmmg7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
